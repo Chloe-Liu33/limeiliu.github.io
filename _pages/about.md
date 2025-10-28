@@ -13,6 +13,8 @@ Profile
 
 I am a PhD candidate in Data Science and Artificial Intelligence (DSAI) at Monash University, with a research focus on OOD Generalizaiton in cross-city traffic prediciton, continual traffic prediction, and text-attributed multi-modal traffic prediciton. And the OOD generalization is mainly beased on causal inference to seperate the confounders.
 
+email:limei.liu@monash.edu
+
 Education
 ======
 
