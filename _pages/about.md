@@ -42,11 +42,11 @@ Publications
 
 Working Experience
 ------
-1. Intel Intern | Deep Learning Algorithm Testing (Apr. 2021 – Aug. 2021)
+1. **Intel Intern of Deep Learning Algorithm Testing**  (Apr. 2021 – Aug. 2021)
    
   Reproduce/Test the accuracy and the throughput of different deep learning neural networks with different threads on different NVIDIA GPUs.
   
-3. Teaching Assistant |Monash University (Apr. 2023 – Oct. 2025)
+3. **Teaching Assistant** in Monash University (Apr. 2023 – Oct. 2025)
    
    Cloud computing and security (FIT5225 S1 2023, 2024);
    
