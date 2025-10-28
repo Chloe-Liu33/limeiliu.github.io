@@ -29,13 +29,13 @@ author:
   bio              : "PhD Candidate in Data Science and Artificial Intelligence at Monash University. Research interests include Causal inference based OOD generalizaiton in multi-modal traffic prediction."
   location         : "Melbourn, Australia"
   employer         : "Monash University"
-  uri              : https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=sQiuR9wAAAAJ&sortby=pubdate
+  uri              : #https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=sQiuR9wAAAAJ&sortby=pubdate
   email            : #"limei.liu@monash.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=sQiuR9wAAAAJ&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-9973-2100"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Chloe-Liu33"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
