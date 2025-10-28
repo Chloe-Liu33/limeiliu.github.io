@@ -26,7 +26,6 @@ Education
 
 Publications
 ======
-[google scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=sQiuR9wAAAAJ&sortby=pubdate), [github](https://github.com/Chloe-Liu33), [linkin](https://www.linkedin.com/in/limei-liz-liu/?originalSubdomain=au)
 
 1. Spatiotemporal Generalization Graph Neural Network-Based Prediction Models by Considering Morphological Diversity in Traffic Networks. **L Liu**, P Duan, Z Chen, J Zhang, S Feng, W Yue, Y Wang, J Rong, IEEE Transactions on Intelligent Transportation Systems, 2025. [link](https://ieeexplore.ieee.org/abstract/document/10967037)
     
@@ -38,7 +37,7 @@ Publications
    
 5. Camouflaged locust segmentation based on PraNet. **L Liu**, M Liu, K Meng, L Yang, M Zhao, S Mei, Computers and Electronics in Agriculture, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0168169922003787)
     
-14. 深度学习在药物活性预测研究中的应用.**刘利梅**， 陈晓晋， 孙世伟， 王宇， 王辉， 梅树立， 王耀君. 生物化学与生物物理进展, 2022. [link](https://www.pibb.ac.cn/pibbcn/article/html/20210161?st=article_issue)
+6. 深度学习在药物活性预测研究中的应用.**刘利梅**， 陈晓晋， 孙世伟， 王宇， 王辉， 梅树立， 王耀君. 生物化学与生物物理进展, 2022. [link](https://www.pibb.ac.cn/pibbcn/article/html/20210161?st=article_issue)
     
 
 Working Experience
