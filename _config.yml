@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "limeil.png"
+  avatar           : "limei1.png"
   name             : "Limei Liu"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Data Science and Artificial Intelligence at Monash University. Research interests include Causal inference based OOD generalizaiton in multi-modal traffic prediction."
