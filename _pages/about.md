@@ -12,8 +12,7 @@ Profile
 ======
 
 I am a final-year PhD Candidate(completed all 3 milestones) at Monash University specializing in Causal Inference and Multimodal Spatio-temporal AI. My research focuses on developing robust, generalizable Machine Learning models
-for complex urban systems and biological data. I have published multiple first-author papers in top-tier journals (e.g., IEEE T-ITS) and served as a reviewer for leading transportation journals.
-email:limeiliu.it@gmail.com
+for complex urban systems and biological data. I have published paper in IEEE T-ITS and served as a reviewer for Transportation Research Part C: Emerging Technologies.
 
 Education
 ======
@@ -48,7 +47,7 @@ Publications
 
 Under Review
 ======
-1. $E^3$-CGCN}: An Effective Framework for Continual Traffic Forecasting on Expanding Graphs, **L Liu**, P Duan,..,J Rong* IEEE T-ITS.
+1. $E^3$-CGCN: An Effective Framework for Continual Traffic Forecasting on Expanding Graphs, **L Liu**, P Duan,..,J Rong* IEEE T-ITS.
 
 Working Experience
 ------
