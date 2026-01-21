@@ -26,11 +26,11 @@ author:
   avatar           : "limei1.png"
   name             : "Limei Liu"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate in Data Science and Artificial Intelligence at Monash University. Research interests include Causal inference based OOD generalizaiton in multi-modal traffic prediction."
+  bio              : "PhD Candidate in Data Science and Artificial Intelligence at Monash University. Research interests include Causal inference, OOD generalizaiton, LLM in multi-modal traffic prediction."
   location         : "Melbourn, Australia"
   employer         : "Monash University"
   uri              : #https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=sQiuR9wAAAAJ&sortby=pubdate
-  email            : #"limei.liu@monash.edu" 
+  email            : #"limeiliu.it@gmail.com" 
 
   # Academic websites
   academia         : # URL
